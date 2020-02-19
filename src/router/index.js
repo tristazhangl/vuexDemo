@@ -10,6 +10,10 @@ export default new Router({
     {
       path: '/',
       name: 'PageOne',
+      meta : {
+        title : 'Demo',
+        allowBack : false
+      },
       component: PageOne
     }
   ]
