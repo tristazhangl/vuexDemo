@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuex-demo
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuexDemo
+vuex的基本使用
+>>>>>>> 15d605ce991b38b5e332189db749e4472b688dd1
